@@ -1,0 +1,2 @@
+# f76310c28a0ee3f4-dental-practice-client-communi
+Built for dental practice professionals who are tired of switching between tabs and losing context.  Works directly in Chrome, Edge, and Brave — no switching apps required. Under 1MB. Zero performance impact on browser speed.  ## What's Included  - Dental Practice Client Communication Portal — fully configured and ready to use - One-click activatio
